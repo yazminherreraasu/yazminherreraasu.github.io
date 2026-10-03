@@ -6,19 +6,12 @@ tags:
 ---
 
 ## Overview
-This needs to be updated with a brief purpose for having the block diagram.
-Things to mention are:
-* power levels
-* sensor
-* Actuator
-* team connections
-* Power source
-* ...
-
-To get some initial formatting help, one can view ["here"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/Appendix/basic-markdown-examples/) some basic techniques.
+This block diagram is an overview of my individual subsystem, the components used, and electrical connections. My subsystem will use the PIC18F57Q43 Curiosity Nano to control the speaker circuitry, debug red LED, and inputs. I also added a 5V regulator and a 9V power level. My connector will receive a signal from Logan's connector 3 pin 2, into my connector 1 pin 2. 
 
 
-## Example Block Diagram 
-Showing an example of how to import a screenshot of the block diagram created outside of git and brought into a page.
 
-![Example of Indivial Block diagram ](individual-block-diagram.png)
+
+## Block Diagram 
+This block diagram shows my individual subsystem set up that includes the PIC18F57Q43 Curiosity Nano, transistor circuitry, a speaker, the connection to my teammate Logan's subsystem and more. 
+
+![Yazmin Herrera Individual Block Diagram](Yazmin_Block_Diagram.drawio.png)
