@@ -4,11 +4,11 @@ title: Schematic
 
 ## Overview
 
-This schematic is design to support .... (highlight functionally, power, and controller).
+This schematic is designed to support the overall function of our product by reacting to Logan Maeltsrom's .... (highlight functionally, power, and controller).
 
 
-![schematic](Screenshot.png){style width:"350" height:"300;"}
-**Figure ##:** Showing a example schematic.
+![schematic](individualsubsystemherrera304.png){style width:"350" height:"300;"}
+**Figure 1.0:** Showing speaker transistor circuitry schematic.
 
 
 ## Resouces
