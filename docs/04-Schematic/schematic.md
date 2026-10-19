@@ -13,4 +13,4 @@ This schematic is designed to support the overall function of our product by rea
 
 ## Resouces
 
-The schematic as a PDF download is available [*here*](ExampleSchematic.pdf), and the Zip folder of the project [*here*](dummyZip.zip).
+The schematic as a PDF download is available [*here*](IndividualSubsystem_Herrera.pdf), and the Zip folder of the project [*here*](IndividualSubsystem_Herreraegr304.zip).
