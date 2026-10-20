@@ -35,4 +35,6 @@ To review the details listed of the material used to construct the subsection, y
 
 [Power Budget](05-Power-Budget/Power-Budget.md)
 
+[Schematic](04-Schematic.md)
+
 For all the sections
