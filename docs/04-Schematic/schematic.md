@@ -8,10 +8,10 @@ This schematic is designed to support the overall function of our product by rea
 
 ## Schematic Image should be seen below:
 <br> **Figure 1.0** Speaker transistor circuitry schematic
-![schematic](individualsubsystemherrera304.png)
+![schematic](individual_subsystem_herrera304png.png)
 
 
 
 ## Resources
 
-The schematic as a PDF download is available [*here*](IndividualSubsystem_Herrera.pdf), and the Zip folder of the project [*here*](IndividualSubsystem_Herreraegr304.zip).
+The schematic as a PDF download is available [*here*](IndividualSubsystem_Herrera.pdf), and the Zip folder of the project [*here*](Individual_Subsystem_HerreraEGR304.zip).
