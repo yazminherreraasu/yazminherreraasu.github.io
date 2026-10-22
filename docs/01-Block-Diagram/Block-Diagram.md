@@ -14,4 +14,4 @@ This block diagram is an overview of my individual subsystem, the components use
 ## Block Diagram 
 This block diagram shows my individual subsystem set up that includes the PIC18F57Q43 Curiosity Nano, transistor circuitry, a speaker, the connection to my teammate Logan's subsystem and more. 
 
-![Yazmin Herrera Individual Block Diagram](blockdiagramindividualpng.png)
+![Yazmin Herrera Individual Block Diagram](blockdiagramindividualpng304.png)
