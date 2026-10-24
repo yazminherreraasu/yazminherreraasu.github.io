@@ -3,15 +3,12 @@ title: Power Budget
 ---
 
 ## Overview
-Write a overview of what you did and why you did a Power Budget.
+A power budget was done  as it was very useful in allowing me to estimate the amount of power my subsystem needs to work. I started off my listing the major components used in my 
+subsystem. I listed each components supply voltage and maximum current the component can consume. We were advised to add a 25% safety margin as a buffer to allow a bit more current capability
+to the subsystem. 
 
-> Capture your power budge as a image to display. Take time to get clean breaks and a well organized layout.
-Section A:
-<br> NPN Transistor
-<br> PNP Transistor
-<br> Speaker
-<br> Nano PIC
->
+
+
 <br>
 
 ## **Pin Table**
@@ -37,8 +34,9 @@ Section A:
 
 ## Conclusions
 
-From the prepare Power Budget
+From the prepared Power Budget, I found that the total estimated current with the 25% safety margin, comes out to 964 mA. Therefore, I am within the range of an assumed
+1000mA capacity for the 5V voltage regulator chosen for this subsystem. 
 
-## Resouces
+## Resources
 
-The power budget as a PDF download is available [*here*](PowerBudgetHerrera.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetExample.xlsx).
+The power budget as a PDF download is available [*here*](PowerBudgetHerrera.pdf), and a Microsoft Excel Sheet [*here*](PowerBudgetHerrera.xlsx).
