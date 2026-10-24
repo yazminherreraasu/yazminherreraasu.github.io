@@ -7,21 +7,21 @@ tags:
 <center>
 <font size= "6">Yazmin Herrera Datasheet</font><br>
 as part of<br>
-<font size= "8"> Project Name</font><br>
+<font size= "8"> HaMaLoYa</font><br>
 for<br>
-<font size= "5"> Team ### </font><br>
+<font size= "5"> Team 104 </font><br>
 
-**Submission: month, DD, YYYY**
+**Submission: Occtober, 26, 2026**
 </center>
 
 ## Introduction
 
-* This needs to be updated so that a reader gets an idea of the purpose of this datasheet.
+* The purpose of this datasheet is to show my details of my subsystem, and how it works in synch with my team HaMaLoYa's overall device. 
 
 ### Project Summary
 
-* This needs to be updated to reflect <ins>your version</ins> of the team project, so when shared not via the team's report, the reader gets an idea of the direction of the project and how your work will contribute to the overall success.
-* Add context that ties into the link to your [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
+* My subsystem is an audio speaker that will work with the team project. My work will contribute to the overall success of this device by receiving a signal from Logan Maeltsrom's device, and will react by emmitting an noise from a speaker to alert the user of the device to stay awake. The user will then have to manually turn off the noise by pressing a button, that way it makes sure that the user is awake and aware. 
+* As you look through my subsystem, you may take a look how it works together with my teams overall design by using this link: [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
 
 
 ### My Contribution
@@ -29,7 +29,9 @@ for<br>
 * This needs to be updated to reflect a team introduction
 * Content should also help an unfamiliar reader navigate to areas of interest. Information like:
 
-To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of the datasheet.
+To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of this datasheet.
+
+For all the sections:
 
 [Component Selection](02-Component-Selection/Component-Selection.md)
 
@@ -37,4 +39,4 @@ To review the details listed of the material used to construct the subsection, y
 
 [Schematic](04-Schematic/schematic.md)
 
-For all the sections
+[Block Diagram](01-Block-Diagram/Block-Diagram.md)
