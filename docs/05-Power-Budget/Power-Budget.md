@@ -27,11 +27,13 @@ Section A:
 | RD5 | Logan's board connector | Digital signal |
 | GND | Connector 1, pin 8 | Common ground |
 
-![budget1](){style width:"350" height:"300;"}
+<br>
 
-![budget2](){style width:"350" height:"300;"}
+ **Table 1.0 : Yazmin Herrera Subsystem Power Budget** <br>
 
-![budget3](){style width:"350" height:"300;"}
+![PowerBudget](powerbudget304.png)
+
+
 
 ## Conclusions
 
