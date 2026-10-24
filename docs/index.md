@@ -26,10 +26,10 @@ for<br>
 
 ### My Contribution
 
-* This needs to be updated to reflect a team introduction
-* Content should also help an unfamiliar reader navigate to areas of interest. Information like:
+* My team HaMaLoYa, is working on a device that aims to improve driver safety to those who may encounter drowsiness or fatigue while behind the wheel. This datasheet focuses mainly on my contribution to the device. 
 
-To review the details listed of the material used to construct the subsection, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of this datasheet.
+
+To review the details listed of the material used to construct my subsystem, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of this datasheet.
 
 For all the sections:
 
