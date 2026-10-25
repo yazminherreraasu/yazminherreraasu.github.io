@@ -10,7 +10,9 @@ Below is an image of the Bill of Materials of the components used for my subsyst
 
 
 ## Bill of Materials Image
-![](BOMpng.png){style width: "2000"}
-**Figure 2:** Example Bill of Materials as a screenshot.
 
-As you can see, the text can be difficult to read without opening the image.
+**Figure 1:**  Bill of Materials 
+![](BOMpng.png)
+
+
+
