@@ -21,7 +21,7 @@ for<br>
 ### Project Summary
 
 * My subsystem is an audio speaker that will work with other team members subsystems. My work will contribute to the overall success of this device by receiving a signal from Logan Maeltsrom's device, and will react by emmitting an noise from a speaker to alert the user of the device to stay awake. The user will then have to manually turn off the noise by pressing a button, that way it makes sure that the user is awake and aware. 
-* As you look through my subsystem, you may take a look how it works together with my teams overall design by using this link: [team report.](https://embedded-systems-design.github.io/EGR304TeamTemplate/)
+* As you look through my subsystem, you may take a look how it works together with my teams overall design by using this link: [team report.](https://asu-egr304-2026-f-104.github.io/)
 
 
 ### My Contribution
@@ -29,7 +29,7 @@ for<br>
 * My team HaMaLoYa, is working on a device that aims to improve driver safety to those who may encounter drowsiness or fatigue while behind the wheel. This datasheet focuses mainly on my contribution to the device. 
 
 
-To review the details listed of the material used to construct my subsystem, you can review it in the ["BOM"](https://embedded-systems-design.github.io/EGR304DataSheetTemplate/03-BOM/BOM/) section of this datasheet.
+To review the details listed of the material used to construct my subsystem, you can review it in the ["BOM"](03-BOM/BOM.md) section of this datasheet.
 
 For all the sections:
 
