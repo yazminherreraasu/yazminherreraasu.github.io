@@ -8,7 +8,7 @@ This schematic is designed to support the overall function of our product by rea
 
 ## Schematic Image should be seen below:
 <br> **Figure 1.0** Speaker transistor circuitry schematic
-![schematic](individual_subsystem_herrera304png.png)
+![schematic](IndividualSchematicRevised.png)
 
 
 
