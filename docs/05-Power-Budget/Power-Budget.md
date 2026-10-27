@@ -16,12 +16,10 @@ to the subsystem.
 | PIC18F57Q43 Pin | Component | Function |
 |---|---|---|
 | RA2 | Transistor circuitry | DAC analog output |
-| RD0 | Transistor circuitry | Digital output |
-| RD1 | TBD connector | Digital signal |
 | RD2 | Debug button 1 | Digital input |
 | RD3 | Debug red LED | Digital output |
 | RD4 | Speaker on/off button 2 | Digital input |
-| RD5 | Logan's board connector | Digital signal |
+| RD7 | Logan's board connector | Digital signal |
 | GND | Connector 1, pin 8 | Common ground |
 
 <br>
