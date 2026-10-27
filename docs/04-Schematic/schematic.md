@@ -14,4 +14,4 @@ This schematic is designed to support the overall function of our product by rea
 
 ## Resources
 
-The schematic as a PDF download is available [*here*](IndividualSubsystemPDFRevised.pdf), and the Zip folder of the project [*here*](Individual_Subsystem_HerreraEGR304.zip).
+The schematic as a PDF download is available [*here*](IndividualSubsystemPDFRevised.pdf), and the Zip folder of the project [*here*](IndividualSubsystemHerreraNEW.zip).
