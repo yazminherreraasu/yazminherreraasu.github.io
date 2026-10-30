@@ -16,3 +16,4 @@ This block diagram shows my individual subsystem set up that includes the PIC18F
 
 ![Yazmin Herrera Individual Block Diagram](BlockDiagramYazmin10_30.drawio.png)
 
+ The zip folder of the block diagram is [*here*](.zip).
