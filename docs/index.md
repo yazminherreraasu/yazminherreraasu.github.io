@@ -40,3 +40,5 @@ For all the sections:
 [Schematic](04-Schematic/schematic.md)
 
 [Block Diagram](01-Block-Diagram/Block-Diagram.md)
+
+[PCB](06-PCB/PCB.md)
