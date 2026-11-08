@@ -14,4 +14,4 @@ This schematic is designed to support the overall function of our product by rea
 
 ## Resources
 
-The schematic as a PDF download is available [*here*](IndividualHerreraJLC_Schematic.pdf), and the zip folder of the project [*here*](.zip).
+The schematic as a PDF download is available [*here*](IndividualHerreraJLC_Schematic.pdf).
