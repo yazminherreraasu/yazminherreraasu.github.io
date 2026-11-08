@@ -4,9 +4,24 @@ title: Component Selection
 
 My component selection decision making process was based on what I needed my subsystem to do. After reviewing the labs throughout the semester, I took note of components I’d need to make my speaker work. I selected my components keeping in mind the budget,  and the project due date. I also was thinking about how the components from the labs in this course were compatible with the PIC Nano. I didn’t want to risk getting a new part that could potentially delay the overall subsystem functionality, especially with a time limit because of non compatibility with the Nano. 
 
+>
 > 
+<br>
 
-*Table 1: NPN Transistor*
+## **Pin Table**
+
+| PIC18F57Q43 Pin | Component | Function |
+|---|---|---|
+| RA2 | Transistor circuitry | DAC analog output |
+| RD2 | Debug button 1 | Digital input |
+| RD3 | Debug red LED | Digital output |
+| RD4 | Speaker on/off button 2 | Digital input |
+| RD7 | Logan's board connector | Digital signal |
+| GND | Connector 1, pin 8 | Common ground |
+
+<br>
+
+ *Table 1: NPN Transistor*
 
 **NPN Transistor**
 
