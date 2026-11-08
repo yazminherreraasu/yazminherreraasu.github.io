@@ -12,4 +12,4 @@ Below I have added my PCB final design for my individual speaker subsystem
 
 ## Resources
 
-The PCB layout as a PDF download is available [*here*](IndividualSubsystem_Herrera.pdf), and the zip file [*here*](.zip)
+The PCB layout as a PDF download is available [*here*](IndividualSubsystem_Herrera.pdf), the zip file to the ECAD project [*here*](.zip), and the zip file to to the Gerber files [here](.zip).
