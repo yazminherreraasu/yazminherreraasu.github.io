@@ -12,4 +12,4 @@ Below I have added my PCB final design for my individual speaker subsystem
 
 ## Resources
 
-The PCB layout as a PDF download is available [*here*](insert.pdf)
+The PCB layout as a PDF download is available [*here*](insert.pdf), and the zip file [*here*](.zip)
