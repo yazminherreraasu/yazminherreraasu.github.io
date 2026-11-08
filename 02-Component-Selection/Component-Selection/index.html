@@ -89,6 +89,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#pin-table" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -508,6 +513,17 @@
       
       
       
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  <span class="md-ellipsis">
+    Component Selection
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
       <a href="./" class="md-nav__link md-nav__link--active">
         
   
@@ -517,6 +533,32 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#pin-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pin Table
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -732,6 +774,23 @@
   
   
   
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
+      
+        <li class="md-nav__item">
+  <a href="#pin-table" class="md-nav__link">
+    <span class="md-ellipsis">
+      Pin Table
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
 </nav>
                   </div>
                 </div>
@@ -756,7 +815,52 @@
   <h1>Component Selection</h1>
 
 <p>My component selection decision making process was based on what I needed my subsystem to do. After reviewing the labs throughout the semester, I took note of components I’d need to make my speaker work. I selected my components keeping in mind the budget,  and the project due date. I also was thinking about how the components from the labs in this course were compatible with the PIC Nano. I didn’t want to risk getting a new part that could potentially delay the overall subsystem functionality, especially with a time limit because of non compatibility with the Nano. </p>
-<blockquote></blockquote>
+<blockquote>
+<p><br></p>
+</blockquote>
+<h2 id="pin-table"><strong>Pin Table</strong></h2>
+<table>
+<thead>
+<tr>
+<th>PIC18F57Q43 Pin</th>
+<th>Component</th>
+<th>Function</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RA2</td>
+<td>Transistor circuitry</td>
+<td>DAC analog output</td>
+</tr>
+<tr>
+<td>RD2</td>
+<td>Debug button 1</td>
+<td>Digital input</td>
+</tr>
+<tr>
+<td>RD3</td>
+<td>Debug red LED</td>
+<td>Digital output</td>
+</tr>
+<tr>
+<td>RD4</td>
+<td>Speaker on/off button 2</td>
+<td>Digital input</td>
+</tr>
+<tr>
+<td>RD7</td>
+<td>Logan's board connector</td>
+<td>Digital signal</td>
+</tr>
+<tr>
+<td>GND</td>
+<td>Connector 1, pin 8</td>
+<td>Common ground</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
 <p><em>Table 1: NPN Transistor</em></p>
 <p><strong>NPN Transistor</strong></p>
 <table>
