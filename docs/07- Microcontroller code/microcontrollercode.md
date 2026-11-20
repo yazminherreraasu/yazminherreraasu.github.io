@@ -8,7 +8,11 @@ My code for this speaker subsystem is shown below. I am using a PIC18F57Q43 curi
 <br>
 
 ## Code
+![code](codepart1.png)
 
+<br>
+
+![code](codepart2.png)
 
 <br>
 
