@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-This block diagram is an overview of my individual subsystem, the components used, and electrical connections. My subsystem will use the PIC18F57Q43 Curiosity Nano to control the speaker circuitry, debug red LED, and inputs. I also added a 5V regulator power level. My connector will receive a signal from Logan into my connector 3 pin 1. 
+This block diagram is an overview of my individual subsystem, the components used, and electrical connections. My subsystem will use the PIC18F57Q43 Curiosity Nano to control the speaker circuitry, debug red LED, and inputs. I also added a 5V regulator power level. My connector will receive a signal from Logan Maelstrom's pin 4 (RF1) into my connector 3 pin 4 (RB2). 
 
 
 
@@ -14,6 +14,6 @@ This block diagram is an overview of my individual subsystem, the components use
 ## Block Diagram 
 This block diagram shows my individual subsystem set up that includes the PIC18F57Q43 Curiosity Nano, transistor circuitry, a speaker, the connection to my teammate Logan's subsystem and more. 
 
-![Yazmin Herrera Individual Block Diagram](REUpdatedBlockDiagramYH.drawio.png)
+![Yazmin Herrera Individual Block Diagram](Team104FINALBlockDgmYH.drawio.png)
 
- The zip folder of the block diagram is [*here*](BlockDiagramUPDATED11_16zip.zip).
+ The zip folder of the block diagram is [*here*](FINALBLCKDGMYH104.zip).
