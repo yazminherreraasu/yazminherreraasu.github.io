@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-This block diagram is an overview of my individual subsystem, the components used, and electrical connections. My subsystem will use the PIC18F57Q43 Curiosity Nano to control the speaker circuitry, debug red LED, and inputs. I also added a 5V regulator power level. My connector will receive a signal from Logan Maelstrom's pin 4 (RF1) into my connector 3 pin 4 (RB2). 
+This block diagram is an overview of my individual subsystem, the components used, and electrical connections. My subsystem will use the PIC18F57Q43 Curiosity Nano to control the speaker circuitry which includes two transistors, debug red LED, and speaker n/off button. I added a 5V regulator power level to fulfill the product requirements. My connector will receive a signal from Logan Maelstrom's pin 4 (RF1) into my connector 3 pin 4 (RB2). 
 
 
 
