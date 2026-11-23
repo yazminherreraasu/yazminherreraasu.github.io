@@ -2,7 +2,7 @@
 
 ## Overview 
 
-Below I have added my PCB final design for my individual speaker subsystem 
+Below I have added my PCB final design for my individual speaker subsystem. There were no changes made here.
 
 ## Figure 1.0 Front layout of PCB
 ![PCB](PCBUPDATEDFRONT.png)
