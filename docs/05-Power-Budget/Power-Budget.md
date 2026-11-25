@@ -3,8 +3,7 @@ title: Power Budget
 ---
 
 ## Overview
-A power budget was done  as it was very useful in allowing me to estimate the amount of power my subsystem needs to work. I started off my listing the major components used in my 
-subsystem. I listed each components supply voltage and maximum current the component can consume. We were advised to add a 25% safety margin as a buffer to allow a bit more current capability
+A power budget was done  as it was very useful in allowing me to estimate the amount of power my subsystem needs to work. I started off my listing the major components used in my subsystem. I listed each components supply voltage and maximum current the component can consume. We were advised to add a 25% safety margin as a buffer to allow a bit more current capability
 to the subsystem. 
 
 
@@ -23,6 +22,9 @@ to the subsystem.
 
 From the prepared Power Budget, I found that the total estimated current with the 25% safety margin, comes out to 964 mA. Therefore, I am within the range of an assumed
 1000mA capacity for the 5V voltage regulator chosen for this subsystem. 
+
+<br>
+After having built the PCB board and powering it up, the power budget was extremely helpful in helping avoid any possible issues with current or voltage. 
 
 ## Resources
 
