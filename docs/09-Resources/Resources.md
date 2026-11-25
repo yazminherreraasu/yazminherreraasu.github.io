@@ -1,4 +1,9 @@
-## Resources
+---
+title: Resources
+tags:
+- tag1
+- tag2
+---
 
 ## Resources
 The final MPLabX code zip file download is available [*here*](.zip). 
