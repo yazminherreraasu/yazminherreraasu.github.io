@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Resources
-The final MPLabX code zip file download is available [*here*](.zip). 
+The final MPLabX code zip file download is available [*here*](Ind_Speaker_Subsystem_Herrera_Team104.zip). 
 
 <br>
 
