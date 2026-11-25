@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-Below is an image of the Bill of Materials of the components used for my subsystem. It lists everything that is on my schematic, and references the placement of each component to my schematic as well. 
+Below is an image of the Bill of Materials of the components used for my subsystem. It lists everything that is on my schematic, and references the placement of each component to my schematic as well. No changes were made on this bill of materials.
 
 
 ## Bill of Materials Image
