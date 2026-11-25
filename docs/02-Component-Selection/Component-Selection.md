@@ -9,7 +9,7 @@ the LM7805 5V Regulator by ST Microelectronics, transistor 2N3906, 2N3904, a 1A 
 
 <br>
 
-## **Major Components used Table A** #
+## **Table A: _Major Components Used_** #
 | Major Components Table | 
 |---|
 | 5V Regulator by ST Microelectronics | 
