@@ -14,4 +14,4 @@ This schematic is designed to support the overall function of our product by rea
 
 ## Resources
 
-The schematic as a PDF download is available [*here*](FINALSCHEMATICYH.pdf).
+The schematic as a PDF download is available [*here*](FINALSCHEMATICYH.pdf). The zip file of the schematic project is available [*here*](REPLACE.zip).
