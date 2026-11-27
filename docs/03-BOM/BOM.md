@@ -10,7 +10,7 @@ Below is an image of the Bill of Materials of the components used for my subsyst
 
 <br>
 
-No changes were made on this bill of materials.
+No changes were made on this bill of materials, all components listed were used.
 
 
 ## Bill of Materials Image
