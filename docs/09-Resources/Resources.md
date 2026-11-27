@@ -10,4 +10,4 @@ The final MPLabX code zip file download is available [*here*](Ind_Speaker_Subsys
 
 <br>
 
-_Note_: no CAD files were used in this project.
+_Note_: no CAD files were used in this project subsystem.
